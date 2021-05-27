@@ -1,0 +1,24 @@
+{
+  "name": "jis_transport_news_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murphy-Facey/jis_transport_news_api.git"
+  },
+  "keywords": [],
+  "author": "Murphy Facey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Murphy-Facey/jis_transport_news_api/issues"
+  },
+  "homepage": "https://github.com/Murphy-Facey/jis_transport_news_api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-server": "^0.16.3"
+  }
+}
